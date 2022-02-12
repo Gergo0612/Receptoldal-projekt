@@ -1,0 +1,6 @@
+csapat tagjai: 
+		-Molnár Gergő
+		-Árvay Alex
+		-Bocsi Bálint 
+		-Kelemen Ádám
+Projekt leírás: recept oldal amin megtalálható magyarország egyik legjobb ételei és persze receptjei
