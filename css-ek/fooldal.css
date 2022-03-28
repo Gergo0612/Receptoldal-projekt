@@ -11,6 +11,7 @@ img {
 	width:75% ;
 	
 	height : 300px
+
 }
 
 .kep{
@@ -19,3 +20,5 @@ float:left
 
 body {
 	background-color:#faebd7;
+	font-style:italic
+	

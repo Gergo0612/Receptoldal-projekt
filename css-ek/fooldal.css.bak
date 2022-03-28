@@ -16,3 +16,6 @@ img {
 .kep{
 float:left
 }
+
+body {
+	background-color:#faebd7;
