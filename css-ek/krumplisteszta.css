@@ -7,3 +7,10 @@ img {
 	margin-right: auto;
 	display: block;
 }
+body {
+	background-color: #FFF4C2; 
+}
+.menu {
+	background-color: #FF6200;
+	color: black;
+}
