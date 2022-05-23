@@ -7,7 +7,7 @@ img {
 .etelek {
 	border: black solid 10px ;
 	text-align:center;
-	margin:center-right;
+	margin:justify;
 	width:75% ;
 	
 	height : 300px
@@ -15,7 +15,10 @@ img {
 }
 
 .kep{
-float:left
+float:left;
+margin-bottom:50px
+
+
 }
 
 body {
